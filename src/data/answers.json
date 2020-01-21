@@ -1,0 +1,12 @@
+{
+ "greeting":["hello there", "Yo my friend", "Hi guy", "Hi! How can I help you ?"],
+ "thanks":["All pleasure", "No problem", "Your welcome!"],
+ "options":["You can ask me anything about apprenticeship at ESILV"],
+ "goodbye":["See you!", "See you later my friend"],
+ "leonardy":["My name is Leonardy! How can I help you", "I am Leonardy! The Conversational Assistant of ESILV\n Trust me, I'm smart ;-)", "I came from a school project, I have been developed by two fifth-years-students. They were both in apprenticeship so they were good mentors ;)"],
+ "noanswer":["Sorry I did not understand", "I'm sorry I don't understand what are you saying, I'm to young.."],
+ "join_esilv":["The two main ways for integrating ESILV are the Concours Avenir Bac for post-baccalaureate admission via the Parcoursup procedure, and the Concours Avenir Prepa after a preparatory class for the grandes écoles. You can also join the ESILV from bac to bac+4, in parallel admissions. To apply to ESILV, we invite you to consult our admissions section or visit our application portal, which details the admission procedures by type of course taken. http://admissions.leonard-de-vinci.net/ecole/ESILV?utm_source=&utm_medium=&utm_campaign="],
+ "apprenticeship":["If you want more info about apprenticeship at ESILV, check https://www.esilv.fr/formations/cycle-ingenieur/apprentissage/\n I'm sure you will find what you are looking for.", "You can apply for the engineering cycle either as an initial training or as an apprentice, check https://www.esilv.fr/formations/cycle-ingenieur/apprentissage/ for more info."],
+ "schedule":["At ESILV, a work-study student usually works at school the wednesday, thursday and friday. Apart from fews special week, an apprentice works in enterprise the rest of the time.","The apprentice works around 2 days a week in enterprise. The further the student advances in his training, the more weeks he will have in the company.","During school holidays, apprentices have to go to enterprise."],
+ "money":["If you are an apprentice, you are lucky. You earn a salary for working on enterprise and enterprise pays school too!","An apprentice saves money, you receive a salary and do not pay school."]
+}

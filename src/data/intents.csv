@@ -1,0 +1,74 @@
+pattern;tag;tag_index
+
+Hi there;greeting;0
+Hello guy;greeting;0
+Yo;greeting;0
+Yo man what's up;greeting;0
+What’s up;greeting;0
+How are you;greeting;0
+Is anyone there?;greeting;0
+Hey;greeting;0
+Hola;greeting;0
+Hello;greeting;0
+Good day;greeting;0
+
+Bye;goodbye;1
+See you later;goodbye;1
+See u;goodbye;1
+That was a pleasure;goodbye;1
+Ciao;goodbye;1
+See you next time;goodbye;1
+GoodBye;goodbye;1
+Nice chatting to you, bye;goodbye;1
+Till next time;goodbye;1
+
+Thanks;thanks;2
+Thank you;thanks;2
+That's helpful;thanks;2
+Awesome, thanks;thanks;2
+Thanks for helping me;thanks;2
+Thanks for you help;thanks;2
+Thank you very much;thanks;2
+You are my man;thanks;2
+You are the best thank you;thanks;2
+
+Could you help me please;options;3
+I need your help;options;3
+How you could help me?;options;3
+What you can do?;options;3
+What help you provide?;options;3
+How you can be helpful?;options;3
+How does it work;options;3
+How do you work;options;3
+how you can help me;options;3
+Can I ask you what I want;options;3
+What is your speciality;options;3
+what is your field;options;3
+I am looking for help;options;3
+I'm looking for information;options;3
+What is your main role;options;3
+
+Who are you;leonardy;4
+are you a chatbot;leonardy;4
+who is leonardy;leonardy;4
+who the fuck are you man;leonardy;4
+Present yourself;leonardy;4
+Give me information about your;leonardy;4
+introduce yourself;leonardy;4
+
+I want to subscribe at esilv;join_esilv;5
+I want to join esilv;join_esilv;5
+how can I join the school;join_esilv;5
+How to register for ESILV? Where and when to apply?;join_esilv;5
+Is it possible to access the engineering cycle in apprenticeship after the integrated preparation?;join_esilv;5
+
+Tell me more about apprenticeship at ESILV;apprenticeship;6
+What is apprenticeship;apprenticeship;6
+How does apprenticeship work at ESILV;apprenticeship;6
+
+What is the typical schedule of a work-study student;schedule;7
+How is an apprentice's schedule distributed;schedule;7
+
+Is an apprentice paid;money;8
+What is the salary of an apprentice;money;8
+If I am apprentice who pay ESILV;money;8

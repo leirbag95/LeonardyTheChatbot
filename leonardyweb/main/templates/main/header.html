@@ -1,0 +1,30 @@
+
+
+<head>
+	{% load static %}
+	<link href="{% static 'main/css/materialize.css' %}" rel="stylesheet">
+	<!-- Compiled and minified CSS -->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+	<!-- Compiled and minified JavaScript -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+	<title> Léonardy </title>
+</head>
+<body>
+	<nav>
+		<div class="nav-wrapper blue lighten-1">
+			<a href="#" class="brand-logo">Léonardy</a>
+			<ul id="nav-mobile" class="right hide-on-med-and-down">
+				<li><a href="sass.html">Accueil</a></li>
+				<li><a href="badges.html">Register</a></li>
+				<li><a href="collapsible.html">Login</a></li>
+			</ul>
+		</div>
+	</nav>
+
+
+{% block content %}
+{% endblock %}
+</body>
+
+
+<script src="{% static 'tinymce/js/prism.js'%}"> </script>
